@@ -1,8 +1,8 @@
 # codes
-•	Multimedia and Animations- https://gitthub.com/chatbca/nv
+•	Multimedia and Animations- https://github.com/chatbca/nv
 
-•	Python-https://gitthub.com/chatbca/nvpy
+•	Python- https://github.com/chatbca/nvpy
 
-•	Algorithm and Design Analysis-https://github.com/chatbca/ad
+•	Algorithm and Design Analysis- https://github.com/chatbca/ad
 
-•	R Programming-https://github.com/chatbca/rprog
+•	R Programming- https://github.com/chatbca/rprog
