@@ -1,5 +1,5 @@
 # codes
-•	Multimedia and Animations- https//gitthub.com/chatbca/nv
+•	Multimedia and Animations- https://gitthub.com/chatbca/nv
 
 •	Python-https://gitthub.com/chatbca/nvpy
 
